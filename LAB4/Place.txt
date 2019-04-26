@@ -1,0 +1,5 @@
+,'Barcelona','Spain'
+,'Hurgada','Egypt'
+,'Dubai','UAE'
+,'Stambul','Turkey'
+,'Soloniki','Greece'

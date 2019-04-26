@@ -1,0 +1,14 @@
+,'Paradise resort', 5 , 2000 , 1
+,'Old Palace resort', 5 , 2100 , 1
+,'Prince resort', 4 , 1500 , 2
+,'Part resort', 5 , 2400 , 2
+,'Diamond albatros', 5 , 3000 , 2
+,'Gold resort', 5 , 1800 , 3
+,'Sea resort', 3 , 1000 , 3
+,'Sand resort', 4 , 1200 , 3
+,'Deluxe resort', 5 , 2400 , 4
+,'Star resort', 3 , 900 , 4
+,'New resort', 4 , 2000 , 5
+,'Castle resort', 4 , 1600 , 5
+,'Hot resort', 3 , 800 , 5
+,'Cool resort', 5 , 2100 , 5
